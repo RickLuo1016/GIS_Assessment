@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "GIS Assessment"
   left:
-    - text: "Home"
-      href: index.html
     - text: "Network Analysis"
       href: Network_Analysis.html
     - text: "Cluster Analysis"
