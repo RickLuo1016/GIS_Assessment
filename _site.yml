@@ -4,6 +4,6 @@ navbar:
   title: "GIS Assessment"
   left:
     - text: "Network Analysis"
-      href: Network_Analysis.html
+      href: index.html
     - text: "Cluster Analysis"
       href: Cluster_Analysis.html
