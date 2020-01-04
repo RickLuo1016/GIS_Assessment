@@ -1,0 +1,18 @@
+---
+title: "Network Assessment and Spatiotemporal Travel Patterns of Metro System in London"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Research Question
+
+Transport for London (TfL) railway service is a complex metro network and it needs improving performance to adapt for heavier demand in the foreseeable future. Infrastructure and management are the focuses of improvement. Infrastructural optimisation includes construction of new stations and lines and adaptation to current stations and lines, etc. Managerial optimisation includes change of operation time and departure frequency, etc. While it is implausible to simultaneously enhance the performance of every section, TfL will have to prioritise the most urgent to maximise the marginal benefits. Therefore, some important questions are raised: is it and how necessary to build or upgrade a station or a line? If so, where should they be? In the case of managerial optimisation, does current operation time of some station match the traffic demand? If it does not. Should it be extended or contracted? To answer them, it is necessary to identify the spatiotemporal patterns and the efficiency of the current system. Following three elements are chosen as the indicators of possible spatiotemporal characteristics
+
+  Trend it refers to the travel flow between different stations, regions (boroughs and wards) and fare zones. 
+  Node: it refers to a station in the topological network or OD (origin-destination) network.
+  Cluster: it refers to trends or nodes with similar variation in response to time on a daily basis.
+
+This research will be informative and useful in three angles. First, we develop a quantitative and visualised method revealing metro travel patterns. Since most processes are automated, the travel pattern can be instantly updated when new data is issued. Second, by identifying travel patterns and then drawing conclusion on them, we eventually outline a more efficient and economical agenda for TfL’s dedication. Third, other cities with metro network (or other network) and similar dataset could also make use of this method and generate insight for its transportation planning.
