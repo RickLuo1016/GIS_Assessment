@@ -1,13 +1,4 @@
 ---
-title: "Network Assessment and Spatiotemporal Travel Patterns of Metro System in London"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
----
 title: "Network Analysis"
 output: 
   html_document:
